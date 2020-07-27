@@ -97,9 +97,9 @@ KinectV2のデータ記録時間（フレームタイミング）とビデオカ
 実験参加者とWizardの双方に対して，実験開始前と実験終了後の両方に，アンケ
 ートを実施した．各項目は8段階である．
 
-questionnaire/
-　├ 1902questionnaire.xlsx　アンケート結果
-　└ 1902questionnaire-items.pdf　使用した質問紙
+questionnaire/  
+　├ 1902questionnaire.xlsx　アンケート結果  
+　└ 1902questionnaire-items.pdf　使用した質問紙  
 
 アンケート結果ファイルには，実験参加者（実験前），実験参加者（実験後），
 Wizard（実験前），Wizard（実験後）の4つのタブがある．このそれぞれにおい
