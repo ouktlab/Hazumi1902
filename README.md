@@ -62,7 +62,7 @@ Hazumi1712のデータセット：
 #### start(exchange), end(system), end(exchange):
 ユーザの上半身動画（mp4）におけるシステム, ユーザの発話開始, 終了時間 
 
-#### kinectstart(exchange), kinectsend(system), kinectend(exchange): 
+#### kinectstart(exchange), kinectend(system), kinectend(exchange): 
 kinectデータにおけるシステム, ユーザの発話開始, 終了時間 (kinect)
 
 #### SS_ternary , TC_ternary, TS_ternary : 
