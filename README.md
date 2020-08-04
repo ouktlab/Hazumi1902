@@ -41,7 +41,9 @@ elan/ 以下に，(実験参加者ID).eaf という名前で置かれている�
 ## 実験用ダンプファイルの概要:
 対話中のユーザ（実験参加者）の心象を含むラベルデータを予測するためのマルチモーダル機械学習実験を行うための利用を想定している．このファイルは， 機械学習の入力として，ユーザの音声，映像，音声認識の結果から得られる発話内容（言語）から抽出したマルチモーダル特徴量（実数値），機械学習の出力として興味度・心象・話題継続アノテーションの値（連続値とカテゴリ値）を格納している．
 
-
+## 実験用ダンプファイルの引用:  
+実験用ダンプファイルは以下の研究で抽出された特徴量セットを含む．
+Yuki Hirano, Shogo Okada, Haruto Nishimoto, and Kazunori Komatani. 2019. Multitask Prediction of Exchange-level Annotations for Multimodal Dialogue Systems. In 2019 International Conference on Multimodal Interaction (ICMI ’19). Association for Computing Machinery, New York, NY, USA, 85–94. DOI:https://doi.org/10.1145/3340555.3353730
 ### フォルダの構造とファイル：
 dumpfiles      
 |---------	1902F2001.csv  
