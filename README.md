@@ -119,13 +119,18 @@ Kinectのデータ記録時間とビデオカメラのデータ記録時間に�
 
 questionnaire/  
 　├ 1902questionnaire-items.pdf　使用した質問紙  
-　└ 1902questionnaire.xlsx　アンケート結果  
+　├ 1902questionnaire.xlsx　本人（とWizard）によるアンケート結果  
+　├ 1902questionnaire-3rdparty-rapport.xlsx　第3者アノテータ5名によるアンケート結果  
+　└ questionnaire-items-3rdparty-rapport.pdf　第3者アノテーションで使用した質問紙  
 
 アンケート結果ファイルには，実験参加者（実験前），実験参加者（実験後），
 Wizard（実験前），Wizard（実験後）の4つのタブがある．このそれぞれにおい
 て，実験参加者は18項目，Wizardは簡略化した3項目に対して，8段階で回答した
 結果が記録されている．詳しくは概要説明書を参照のこと．
 
+さらに2023年9月に，第3者アノテータ5名が付与したアンケート結果（ラポール
+18項目）ファイルを追加した．質問項目は上述のアンケートと同じ18項目である
+が，本人ではなく第3者アノテータ5名がそれぞれビデオを見て付与したものである．
 
 # Authors
 * 駒谷 和範（大阪大学 産業科学研究所） komatani@sanken.osaka-u.ac.jp
